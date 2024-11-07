@@ -1,0 +1,17 @@
+[theme]
+
+# primary accent color for intreactive elements
+
+primaryColor = "#d33682"
+
+# background color
+
+backgroundColor = "#002b36"
+
+#background color for side bar 
+
+secondryBackgroundColor = "#586375"
+
+# for text
+
+textColor = "#fff"
